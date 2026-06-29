@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Olha 👋
 
-<!--
-**kl0lya/kl0lya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** who turns raw data into decisions — using SQL, Python, and Tableau to find patterns that actually matter to the business.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+
+**Data & Querying**
+`SQL` `Google BigQuery` `CTEs` `Window Functions`
+
+**Analysis & Statistics**
+`Python` `pandas` `NumPy` `SciPy` `statsmodels`
+`A/B Testing` `Z-test` `Mann-Whitney` `Kruskal-Wallis` `ANOVA` `Chi-square`
+
+**Visualization**
+`Tableau Public` `Matplotlib` `Seaborn`
+
+**Environment**
+`Google Colab` `Jupyter Notebook` `GitHub`
+
+---
+
+## Portfolio Projects
+
+### [E-commerce Sales Analysis](https://github.com/kl0lya/ecommerce-sales-analysis)
+End-to-end analysis of an online furniture store — SQL extraction from BigQuery, EDA, sales dynamics, pivot tables, correlation analysis, and 7 statistical hypothesis tests.
+
+`SQL` `Python` `Tableau` `BigQuery` `Z-test` `Mann-Whitney` `Kruskal-Wallis` `ANOVA` `Chi-square`
+
+🔗 [Tableau Dashboard](https://public.tableau.com/views/E-commerceDashboard_17817134733990/E-commerceSalesDashboard)
+
+---
+
+### [A/B Testing Analysis](https://github.com/kl0lya/ab-testing-analysis)
+Statistical evaluation of 4 product A/B tests across 4 funnel metrics — with segment breakdowns by country, device, continent, and channel using Z-tests for proportions.
+
+`SQL` `Python` `Tableau` `BigQuery` `Z-test for proportions`
+
+🔗 [Tableau Dashboard](https://public.tableau.com/views/ABTestingAnalytics/ABTestingAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### [E-commerce SQL Analysis](https://github.com/kl0lya/ecommerce-sql-analysis)
+Focused SQL portfolio project — account registration and email engagement metrics, organized with CTEs and documented with a professional README.
+
+`SQL` `BigQuery` `CTEs`
+
+---
+
+### [Sales Analysis — Python](https://github.com/kl0lya/sales-analysis)
+Standalone Python sales analysis with professional Matplotlib/Seaborn visualizations.
+
+`Python` `pandas` `Matplotlib` `Seaborn`
+
+---
+
+## Tableau Public
+
+All interactive dashboards are published here:
+🔗 [public.tableau.com/app/profile/olha.klochnyk/vizzes](https://public.tableau.com/app/profile/olha.klochnyk/vizzes)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olha_Klochnyk-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/olha-klochnyk-7039241b3)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/olha.klochnyk/vizzes)
