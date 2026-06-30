@@ -42,8 +42,7 @@ Statistical evaluation of 4 product A/B tests across 4 funnel metrics — with s
 ---
 
 ### [E-commerce SQL Analysis](https://github.com/kl0lya/ecommerce-sql-analysis)
-A BigQuery SQL project analyzing account registration dynamics and email engagement across countries for an e-commerce platform. Focused SQL project — account registration and email engagement metrics, organized with CTEs and documented with a professional README.
-
+A BigQuery SQL project analyzing account registration dynamics and email engagement across countries for an e-commerce platform. 
 `SQL` `BigQuery` `CTEs` `Looker Studio`
 
 ---
