@@ -14,7 +14,7 @@ I'm a **Data Analyst** who turns raw data into decisions — using SQL, Python, 
 `A/B Testing` `Z-test` `Mann-Whitney` `Kruskal-Wallis` `ANOVA` `Chi-square`
 
 **Visualization**
-`Tableau Public` `Matplotlib` `Seaborn`
+`Tableau Public` `Looker Studio` `Matplotlib` `Seaborn`
 
 **Environment**
 `Google Colab` `Jupyter Notebook` `GitHub`
