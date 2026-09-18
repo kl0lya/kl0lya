@@ -1,6 +1,6 @@
 # Hi, I'm Olha 👋
 
-I'm a **Data Analyst** who turns raw data into decisions — using SQL, Python, and Tableau to find patterns that actually matter to the business.
+I'm a **Data Analyst** who turns raw data into decisions — using SQL, Python, Tableau and Power BI to find patterns that actually matter to the business.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a **Data Analyst** who turns raw data into decisions — using SQL, Python, 
 `A/B Testing` `Z-test` `Mann-Whitney` `Kruskal-Wallis` `ANOVA` `Chi-square`
 
 **Visualization**
-`Tableau Public` `Looker Studio` `Matplotlib` `Seaborn`
+`Tableau Public` `Power BI` `DAX` `Looker Studio` `Matplotlib` `Seaborn`
 
 **Environment**
 `Google Colab` `Jupyter Notebook` `GitHub`
@@ -52,6 +52,22 @@ A BigQuery SQL project analyzing account registration dynamics and email engagem
 Standalone Python sales analysis with professional Matplotlib/Seaborn visualizations.
 
 `Python` `pandas` `Matplotlib` `Seaborn`
+
+---
+
+## Portfolio Projects
+
+[Customer Churn Analysis — Power BI](https://github.com/kl0lya/Customer-Churn-Analysis-Power-BI)
+Churn analysis for a fictional telecom provider (Databel, DataCamp case study) — built DAX measures and calculated columns to uncover churn drivers across demographics, contract types, and service usage, then structured findings into a stakeholder-ready report.
+
+`Power BI` `DAX` `Power Query` `Data Modeling` `Data Visualization`
+
+---
+
+### [HR Analytics Dashboard — Power BI](https://github.com/kl0lya/HR-Analytics-Power-BI)
+HR analytics dashboard built on a public Kaggle employee dataset — modeled relationships between employee records and engagement survey data, then used DAX to surface trends in engagement, satisfaction, and work-life balance across departments and demographics.
+
+`Power BI` `DAX` `Data Modeling` `Data Visualization`
 
 ---
 
