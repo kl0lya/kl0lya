@@ -53,6 +53,13 @@ Standalone Python sales analysis with professional Matplotlib/Seaborn visualizat
 
 `Python` `pandas` `Matplotlib` `Seaborn`
 
+### [GA4 Ecommerce Marketing Analytics](https://github.com/kl0lya/Ecommerce-Marketing-Analytics)
+End-to-end GA4 analysis of Google Merch Store data covering acquisition, engagement, e-commerce funnel, product performance, and user segmentation.
+
+`Google Analytics` `4 GA4 Explore` `Looker Studio` `Google Sheets`
+
+🔗 [Data Studio Dashboard](https://public.tableau.com/views/ABTestingAnalytics/ABTestingAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://datastudio.google.com/reporting/ea9eb225-6c7c-4e2b-a57f-5997df9bf643))
+
 ---
 
 ## Power BI Projects
