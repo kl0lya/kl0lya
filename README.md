@@ -58,7 +58,7 @@ End-to-end GA4 analysis of Google Merch Store data covering acquisition, engagem
 
 `Google Analytics` `4 GA4 Explore` `Looker Studio` `Google Sheets`
 
-🔗 [Data Studio Dashboard](https://public.tableau.com/views/ABTestingAnalytics/ABTestingAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://datastudio.google.com/reporting/ea9eb225-6c7c-4e2b-a57f-5997df9bf643))
+🔗 [Data Studio Dashboard](https://datastudio.google.com/reporting/ea9eb225-6c7c-4e2b-a57f-5997df9bf643)
 
 ---
 
